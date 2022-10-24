@@ -2,7 +2,7 @@
   {
     "_id": 1,
     "title": "title",
-    "category": "cate",
+    "category": "Website Design",
     "short_description": "shortdesc",
     "description": "description",
     "price": 200,
@@ -12,7 +12,7 @@
   {
     "_id": 2,
     "title": "title",
-    "category": "cate",
+    "category": "Website Design",
     "short_description": "shortdesc",
     "description": "description",
     "price": 200,
@@ -22,7 +22,7 @@
   {
     "_id": 3,
     "title": "title",
-    "category": "cate",
+    "category": "Website Design",
     "short_description": "shortdesc",
     "description": "description",
     "price": 200,
@@ -32,7 +32,7 @@
   {
     "_id": 4,
     "title": "title",
-    "category": "cate",
+    "category": "Mobile App",
     "short_description": "shortdesc",
     "description": "description",
     "price": 200,
@@ -42,7 +42,7 @@
   {
     "_id": 5,
     "title": "title",
-    "category": "cate",
+    "category": "Mobile App",
     "short_description": "shortdesc",
     "description": "description",
     "price": 200,
@@ -52,7 +52,7 @@
   {
     "_id": 6,
     "title": "title",
-    "category": "cate",
+    "category": "Mobile App",
     "short_description": "shortdesc",
     "description": "description",
     "price": 200,
@@ -62,7 +62,7 @@
   {
     "_id": 7,
     "title": "title",
-    "category": "cate",
+    "category": "IOS App",
     "short_description": "shortdesc",
     "description": "description",
     "price": 200,
@@ -72,7 +72,7 @@
   {
     "_id": 8,
     "title": "title",
-    "category": "cate",
+    "category": "IOS App",
     "short_description": "shortdesc",
     "description": "description",
     "price": 200,
@@ -82,7 +82,7 @@
   {
     "_id": 9,
     "title": "title",
-    "category": "cate",
+    "category": "IOS App",
     "short_description": "shortdesc",
     "description": "description",
     "price": 200,
@@ -92,7 +92,7 @@
   {
     "_id": 10,
     "title": "title",
-    "category": "cate",
+    "category": "IOS App",
     "short_description": "shortdesc",
     "description": "description",
     "price": 200,
