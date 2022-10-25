@@ -21,14 +21,22 @@ app.get("/courses/", (req, res) => {
 app.get("/course/:id", (req, res) => {
   const id = req.params.id;
   const selectedCourse = courses.find((course) => course._id === id);
-  res.send(selectedCourse);
+  if (selectedCourse) {
+    res.send(selectedCourse);
+  } else {
+    res.send("Not found");
+  }
 });
 
 // fetch category posts by category id (slug)
 app.get("/courses/category/:id", (req, res) => {
   const id = req.params.id;
   const selectedCategory = courses.filter((course) => course.category_slug === id);
-  res.send(selectedCategory);
+  if (selectedCategory) {
+    res.send(selectedCategory);
+  } else {
+    res.send("Not found");
+  }
 });
 
 // check server
