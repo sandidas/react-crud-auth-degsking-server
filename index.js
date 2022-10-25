@@ -28,6 +28,17 @@ app.get("/course/:id", (req, res) => {
   }
 });
 
+// get courses by slug
+app.get("/course/details/:id", (req, res) => {
+  const id = req.params.id;
+  const selectedCourse = courses.find((course) => course.slug === id);
+  if (selectedCourse) {
+    res.send(selectedCourse);
+  } else {
+    res.send("Not found");
+  }
+});
+
 // fetch category posts by category id (slug)
 app.get("/courses/category/:id", (req, res) => {
   const id = req.params.id;
