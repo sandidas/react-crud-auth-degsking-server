@@ -1,9 +1,10 @@
 [
   {
-    "_id": 1,
+    "_id": "1",
     "slug": "web-development-bootcamp-2022",
     "title": "Web Development Bootcamp - 2022",
     "category": "Web Development",
+    "category_slug": "web-development",
     "short_description": "You will learn the latest technologies, including Javascript, React, Node and even Web3 development. ",
     "description": "You will build 16 web development projects for your portfolio, ready to apply for junior developer jobs. You will learn the latest technologies, including Javascript, React, Node and even Web3 development. You will master both front and back-end development, becoming a full-stack developer by the end of the course. After the course you will be able to build ANY website you want.",
     "price": 500,
@@ -11,10 +12,11 @@
     "image": "https://i.ibb.co/71YVQqC/walling-XLqi-L-rz4-V8-unsplash.jpg"
   },
   {
-    "_id": 2,
+    "_id": "2",
     "slug": "the-complete-guide-incl-hooks-react-router-redux",
     "title": "The Complete Guide (incl Hooks, React Router, Redux)",
     "category": "Website Development",
+    "category_slug": "web-development",
     "short_description": "Build powerful, fast, user-friendly and reactive web apps",
     "description": "<p>This course will teach you React.js in a practice-oriented way, using all the latest patterns and best practices you need. You will learn all the key fundamentals as well as advanced concepts and related topics to turn you into a React.js developer.</p> <p> This is a huge course because it really covers EVERYTHING you need to know and learn to become a React.js developer! </p><p> No matter if you know nothing about React or if you already got some basic React knowledge (not required but also not a problem), you will get tons of useful information and knowledge out of this course!</p> <p> My goal with this course is to ensure that you feel confident working with React, so that you can apply for React jobs, use it in your own projects or simply enhance your portfolio as a developer - whatever your goal is: This course gets you there!</p>",
     "price": 400,
@@ -22,10 +24,11 @@
     "image": "https://i.ibb.co/dg74ZMM/sigmund-Fa9b57hffn-M-unsplash.jpg"
   },
   {
-    "_id": 3,
+    "_id": "3",
     "slug": "the-complete-javascript-course",
     "title": "The Complete JavaScript Course",
     "category": "Website Development",
+    "category_slug": "web-development",
     "short_description": "Become an advanced, confident, and modern JavaScript developer from scratch",
     "description": "<p>This is the most complete JavaScript course on DegsKing. It's an all-in-one package that will take you from the very fundamentals of JavaScript, all the way to building modern and complex applications.</p><p>You will learn modern JavaScript from the very beginning, step-by-step. I will guide you through practical and fun code examples, important theory about how JavaScript works behind the scenes, and beautiful and complete projects. </p><p>You will also learn how to think like a developer, how to plan application features, how to architect your code, how to debug code, and a lot of other real-world skills that you will need on your developer job. </p><p>And unlike other courses, this one actually contains beginner, intermediate, advanced, and even expert topics, so you don't have to buy any other course in order to master JavaScript from the ground up! </p><p>But... You don't have to go into all these topics. This is a huge course, because, after all, it's \"The Complete JavaScript Course\". In fact, it's like many courses in one! But you can become an excellent developer by watching only parts of the course. That's why I built this course in a very modular way, and designed pathways that will take you through the course faster. </p><p>By the end of the course, you will have the knowledge and confidence that you need in order to ace your job interviews and become a professional developer. </p>",
     "price": 200,
@@ -33,10 +36,11 @@
     "image": "https://i.ibb.co/DYNFwC3/sigmund-Im-c-Q6h-Qo10-unsplash.jpg"
   },
   {
-    "_id": 4,
+    "_id": "4",
     "slug": "",
     "title": "build-responsive-real-world-websites-with-html-and-css",
     "category": "Web Design",
+    "category_slug": "web-design",
     "short_description": "Become a modern and confident HTML and CSS developer, no prior knowledge needed!",
     "description": "<p>Building websites allows you to do fun and creative work, from anywhere in the world, and it even pays well. Web development is one of the most future-proof and highest-paying industries in the world. And HTML and CSS is the entry point to this world! </p> <p>But you already know all this, that's why you want to learn HTML and CSS too. Well, you came to the right place!</p> <p>This is the best and most complete course for starting your web development journey that you will find on DegsKing. It's an all-in-one package that takes you from knowing nothing about HTML and CSS, to building beautiful websites using tools and technologies that professional web developers use every single day.</p>",
     "price": 600,
@@ -44,10 +48,11 @@
     "image": "https://i.ibb.co/n7XFRv4/danial-igdery-FCHl-Yv-R5g-JI-unsplash.jpg"
   },
   {
-    "_id": 5,
+    "_id": "5",
     "slug": "mobile-app-development-with-flutter-dart",
     "title": "Mobile App Development with Flutter & Dart (iOS and Android)",
     "category": "Mobile App Development",
+    "category_slug": "web-design",
     "short_description": "Learn Dart programming language step-by-step, from the very beginning. Learn how to build awesome mobile apps for both Android and iOS with a single codebase.",
     "description": "    <p> Flutter is an extremely trending framework from Google that was released only in 2017. ​​And today, ​ Flutter has become the most popular cross-platform mobile framework, according to a 2021 developer survey from Statista. Based on this survey, a stunning 42 percent of software developers worldwide used Flutter. </p> <p>Flutter allows you to build beautiful native mobile apps for both iOS and Android with only one programming language - Dart. </p> <p>That means that you, as a developer do not need to learn Swift/Objective-C and Kotlin/Java in order to write apps for iOS and Android, but instead, use the revolutionizing framework from Google and learn only one language - Dart and create stunning apps for both platforms. </p> <p> This course will teach you Flutter and Dart from zero, with no prior knowledge required! In fact, we will create every project in this course from scratch. </p> <p> We will use the newest version of Flutter and Dart, which already includes null-safety in all of the projects by default. </p> <p> In this course, you will learn everything you need to become a pro Flutter developer. </p> <p> We will create amazing projects that you can later include in your portfolio, some of them are BlackJack Card game, Meditations app with audio player, Bird spotting app with maps, real-time location, and on-device data storage, My Diary app with App localizations, social media app with Firebase, where we will create and authenticate users, store data remotely, and create a real-time chat, use Crashlythics in order to identify bugs when the app is already in production. Later in the course, you will also learn how we can monetize our apps with Google AdMob - we will embed in-app ad banners and interstitial ads. </p> <p> We will embed and use the Machine Learning model from Google and recognize objects from Images. </p> <p> In addition to that, you will learn how to use git and how to manage your repository remotely on GitHub. </p> <p> We will also learn how to use different state management approaches including Provider, GetX, Riverpod and BLoC(Cubit), and many many other cool things. </p> <p> If it all sounds confusing to you, do not worry, because we will start from the very beginning, with the basics of the Dart Programming language and the theory behind Object-Oriented Programming - concepts and paradigms. </p>",
     "price": 400,
@@ -55,10 +60,11 @@
     "image": "https://i.ibb.co/kK9hq75/altumcode-U0t-BTn8-UR8-I-unsplash.jpg"
   },
   {
-    "_id": 6,
+    "_id": "6",
     "slug": "the-complete-ios-app-development-bootcamp",
     "title": "The Complete iOS App Development Bootcamp",
     "category": "Mobile App Development",
+    "category_slug": "mobile-app-development",
     "short_description": "You will create a portfolio of 15 apps to be able apply for junior developer jobs at a technology company. You will learn Xcode, UIKit and SwiftUI, ARKit, CoreML and CoreData.",
     "description": "<p> Welcome to the Complete iOS App Development Bootcamp. With over 39,000 5 star ratings and a 4.8 average my iOS course is the HIGHEST RATED iOS Course in the history of DegsKing! </p> <p> At 55+ hours, this iOS 13 course is the most comprehensive iOS development course online! </p> <p> This Swift 5.1 course is based on our in-person app development bootcamp in London, where we've perfected the curriculum over 4 years of in-person teaching. </p> <p> Our complete app development bootcamp teaches you how to code using Swift 5.1 and build beautiful iOS 13 apps for iPhone and iPad. Even if you have ZERO programming experience. </p> <p> I'll take you step-by-step through engaging and fun video tutorials and teach you everything you need to know to succeed as an iOS app developer. </p> <p> The course includes 55+ hours of HD video tutorials and builds your programming knowledge while making real world apps. e.g. Pokemon Go, Whatsapp, QuizUp and Yahoo Weather. </p>  <p> The curriculum has been completely revamped for iOS 13 and Xcode 11. Including comprehensive modules on Apple's latest technology - SwiftUI iOS, iPadOS and macOS app interface design, ARKit for making Augmented Reality apps as well as CoreML & CreateML for making intelligent apps with Machine Learning. You'll be building 3D augmented reality apps that look like Pokemon Go and Harry Potter's magical newspapers!</p> <p> By the end of this course, you will be fluently programming in Swift 5.1 and be ready to make your own apps or start a freelancing job as an iOS 13 developer. </p> <p> You'll also have a portfolio of over 25 apps that you can show off to any potential employer. </p>",
     "price": 300,
@@ -66,10 +72,11 @@
     "image": "https://i.ibb.co/wcYM7Pk/alexandru-acea-WBYxm-W4yuw-unsplash.jpg"
   },
   {
-    "_id": 7,
+    "_id": "7",
     "slug": "beginner-full-stack-web-development-html-css-react-node",
     "title": "Beginner Full Stack Web Development: HTML, CSS, React & Node",
     "category": "Full Stack Web Development",
+    "category_slug": "full-stack-web-development",
     "short_description": "Build websites with HTML & CSS. Build backend servers & APIs with Node and Express",
     "description": "<p>Welcome to the Ultimate Web Developer Bootcamp. This is your one-stop-shop to learn front-end AND back-end development.  </p> <p> We'll take you from absolute beginner to competent full-stack web developer in a matter of weeks. </p>",
     "price": 200,
@@ -77,10 +84,11 @@
     "image": "https://i.ibb.co/dLrJ49z/arnold-francisca-FBNxmw-EVp-Ac-unsplash.jpg"
   },
   {
-    "_id": 8,
+    "_id": "8",
     "slug": "the-full-stack-web-developmen-mern-stack",
     "title": "The Full stack Web Development Bootcamp 2022 - MERN STACK",
     "category": "Full Stack Web Development",
+    "category_slug": "full-stack-web-development",
     "short_description": "Build Income & ExpensesTracker App using MERN STACK, Build React Portfolio from scratch",
     "description": "<p>This course is perfect for anyone looking to learn web development in 2022. It covers all the latest technologies and frameworks that you'll need to know to build today's modern websites and web applications. </p><p> We'll start by learning HTML, CSS, and JavaScript, the fundamental technologies of the web. Then we'll move on to more advanced topics like React, Node js, and MongoDB. By the end of the course, you'll  build  different projects ranging from a simple website to a fully-fledged web app. </p> <p> This course is designed for you to build your own business or a new career, and become an expert web developer. You don't need any previous experience in website development or programming as this course is designed in such a way that it can be done even if you have no coding or web development background. </p> <p>  It’s all explained in an easy to understand way with step by step instructions, video tutorials, and live examples. This is a hands-on course, where you get immediate access to every lesson, </p> <p> So whether you're a complete beginner or an experienced web developer looking to stay up-to-date with the latest changes, this course is for you. Enrol now and let's get started! </p>",
     "price": 500,
@@ -88,10 +96,11 @@
     "image": "https://i.ibb.co/sgyPDyj/emile-perron-xr-VDYZRGdw4-unsplash.jpg"
   },
   {
-    "_id": 9,
+    "_id": "9",
     "slug": "the-ultimate-2022-fullstack-web-development-bootcamp",
     "title": "The Ultimate 2022 Fullstack Web Development Bootcamp",
     "category": "Full Stack Web Development",
+    "category_slug": "full-stack-web-development",
     "short_description": "Be able to build ANY website you want. Build fully-fledged websites and web apps for your startup or business.",
     "description": "<p>We'll take you through every subject, every module and every lesson in a step-by-step manner to teach you everything you need to know to succeed as a professional web developer. </p> <p> You will learn the most in-demand languages and tools like React and Python! </p> <p> The course includes over 40 hours of Ultra HD video tutorials and will build your knowledge as a web developer while working on small website components, and then finishing it off by using all the small components in a fully functional and gorgeous website. </p>",
     "price": 600,
@@ -99,10 +108,11 @@
     "image": "https://i.ibb.co/g4kzygs/florian-olivo-4hb-J-eym-Z1o-unsplash.jpg"
   },
   {
-    "_id": 10,
+    "_id": "10",
     "slug": "the-complete-2022-web-development-course-build-15-projects",
     "title": "The Complete 2022 Web Development Course - Build 15 Projects",
     "category": "Full Stack Web Development",
+    "category_slug": "full-stack-web-development",
     "short_description": "Go from Zero skills to building Powerful Web Applications on a highly professional level using the latest 2021 Web Technologies. Use a Portfolio of over 15 highly professional websites, Games and Mobile apps you would have developed during the course to take your career to the next level.",
     "description": "<p> Did you know you can go from Zero Skills to a Fully Qualified Cash Earning Web Developer in only a few weeks? <p> Well let me tell you: If you are looking for a truly 100% Comprehensive Web Development Course, that will take you from learning the basics to mastering the most advanced web development techniques, then be certain that you have come to the right place. </p> <p> Taking this course will help you achieve your dream of becoming a professional web developer, and you will be ready to build powerful and responsive websites to a highly professional degree using today’s most advanced and up to date web technologies within a few weeks from now. </p> <p> In order to guarantee the success of your learning experience, this course was divided into perfectly structured Chapters consisting of ~100 hours of crystal clear and 100% hands-on engaging lectures. </p> <p> Each chapter covers one of the major web technologies and will take you from the basics to advanced skills. This is how: </p> <p> You will first learn the basic concepts, and straight after that apply them in easy practical examples. Then you will easily navigate to more advanced concepts and use them to build more complex applications. Once you have finished the chapter, you will then move to a bigger challenge where you will confidently build a “Real Life Full Professional Project” using the skills you acquired in that chapter combined with previous ones.</p>",
     "price": 800,
