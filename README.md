@@ -8,6 +8,8 @@ https://degsking-ass.vercel.app/course/1
 # Courses by categories 
 https://degsking-ass.vercel.app/courses/category/:id
 
+# Example
+https://degsking-ass.vercel.app/courses/category/full-stack-web-development
 
 # API By
 https://SandipanDas.net
