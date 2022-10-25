@@ -17,7 +17,7 @@ app.get("/courses/", (req, res) => {
   res.send(courses);
 });
 
-// get by id
+// get courses by id
 app.get("/course/:id", (req, res) => {
   const id = req.params.id;
   const selectedCourse = courses.find((course) => course._id === id);
